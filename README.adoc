@@ -1,2 +1,24 @@
-# Workflows
+
+= Workflows
 Miscellaneous workflow scripts and notes
+
+== Installations
+
+=== Theta
+
+On Theta, our project is AXMAS-Flows, and we have 1,000 hours to use by July 1, 2022.
+
+==== Anaconda
+
+* `/lus/eagle/projects/AXMAS-Data/sfw/Anaconda3`
+
+==== CCTW
+
+
+
+== Build notes
+
+=== Theta
+
+Wozniak has built CCTW on Theta with module gcc/7.3.0 .
+
